@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.dotdash.com/");
+header("Location: https://www.lyst.com/shop/mens-coats/");
 die();
 ?>
